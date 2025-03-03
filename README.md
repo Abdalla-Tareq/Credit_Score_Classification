@@ -45,7 +45,7 @@ This project, **Credit Score Classification**, aims to predict customers' credit
 - ✅ Optimize model performance.
 
 # 👤 Developer
-- **👨‍💻 Abdullah Tarek**
+- **👨‍💻 Abdallah Tarek**
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdalla-tarek-21a025263/)
 
 🚀 An effective project for credit score classification using machine learning!
